@@ -3,8 +3,7 @@
  - 👩‍💻 Desenvolvedor Back-End.
  - 👨‍🎓 Cursando Graduação em Sistemas de Informação na Instituto Toledo de Ensino.
  - 👨‍🎓 Intermediário/Avançado em Java pela Alura e Intermediário em C# pela DIO.
- - 🎮 Streamer na Twtich e criador de conteúdos no Youtube.
- - 👷‍♂️ Atualmente estou trabalhando com: C# | .Net | TypeScript| React | Flutter|
+ - 💻 Possuo um canal no Youtube, Instagram e TikTok sobre dicas de computadores e programação.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
