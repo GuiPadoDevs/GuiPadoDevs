@@ -1,6 +1,6 @@
 # Olá! Meu nome é Guilherme! 👋
 
- - 👩‍💻 Desenvolvedor Back-End.
+ - 👨🏻‍💻 Desenvolvedor.
  - 👨‍🎓 Cursando Graduação em Sistemas de Informação na Instituto Toledo de Ensino.
  - 👨‍🎓 Intermediário/Avançado em Java pela Alura e Intermediário em C# pela DIO.
  - 💻 Possuo um canal no Youtube, Instagram e TikTok sobre dicas de computadores e programação.
