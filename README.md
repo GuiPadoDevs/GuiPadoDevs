@@ -1,9 +1,10 @@
-# Olá! Meu nome é Guilherme! 👋
+# Hi! My name is Guilherme! 👋
 
- - 👨🏻‍💻 Desenvolvedor.
- - 👨‍🎓 Cursando Graduação em Sistemas de Informação na Instituto Toledo de Ensino.
- - 👨‍🎓 Intermediário/Avançado em Java pela Alura e Intermediário em C# pela DIO.
- - 💻 Possuo um canal no Youtube, Instagram e TikTok sobre dicas de computadores e programação.
+ - 👨🏻‍💻 Developer.
+ - 👨‍🎓 Studying graduation in Information Systems at Instituto Toledo de Ensino.
+ - 👨‍🎓 Intermediate/Advanced in Java by Alura and Advanced in C# by DIO.
+ - 👨🏻‍💻 Some freelancers in C# and websites with HTML, CSS, JavaScript and PHP.
+ - 💻 I have a YouTube, Instagram and TikTok channel about computer and programming tips.
 
 <div align="center">
   <a href="https://github.com/GuiPadoDevs">
