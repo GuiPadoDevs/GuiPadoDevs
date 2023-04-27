@@ -1,8 +1,8 @@
 # Hi! My name is Guilherme! 👋
 
- - 👨🏻‍💻 Developer.
+ - 👨🏻‍💻 Developer | Node.js | JavaScript | .NET | Java | HTML | CSS.
  - 👨‍🎓 Studying graduation in Information Systems at Instituto Toledo de Ensino.
- - 👨‍🎓 Intermediate/Advanced in Java by Alura and Advanced in C# by DIO.
+ - 👨‍🎓 Advanced in Java by Alura and Advanced in C# by DIO.
  - 👨🏻‍💻 Some freelancers in C# and websites with HTML, CSS, JavaScript and PHP.
  - 💻 I have a YouTube, Instagram and TikTok channel about computer and programming tips.
 
