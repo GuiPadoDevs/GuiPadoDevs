@@ -1,8 +1,8 @@
 # Hi! My name is Guilherme! 👋
 
- - 👨🏻‍💻 Developer | Node.js | JavaScript | .NET | Java | HTML | CSS.
+ - 👨🏻‍💻 Developer | Node.js | React |
  - 👨‍🎓 Studying graduation in Information Systems at Instituto Toledo de Ensino.
- - 👨‍🎓 Advanced in Java by Alura and Advanced in C# by DIO.
+ - 👨‍🎓 Advanced in Node and React by Alura.
  - 👨🏻‍💻 Some freelancers in C# and websites with HTML, CSS, JavaScript and PHP.
  - 💻 I have a YouTube, Instagram and TikTok channel about computer and programming tips.
 
@@ -12,11 +12,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiPadoDevs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="GuiPadoDevs-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="GuiPadoDevs-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="GuiPadoDevs-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="GuiPadoDevs-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="GuiPadoDevs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GuiPadoDevs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GuiPadoDevs-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="GuiPadoDevs-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
   ##
