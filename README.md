@@ -1,6 +1,6 @@
 # Hi! My name is Guilherme! 👋
 
- - 👨🏻‍💻 Developer | Node.js | React |
+ - 👨🏻‍💻 Developer | Node.js | React | C# | Vue.JS
  - 👨‍🎓 Studying graduation in Information Systems at Instituto Toledo de Ensino.
  - 👨‍🎓 Advanced in Node and React by Alura.
  - 👨🏻‍💻 Some freelancers in C# and websites with HTML, CSS, JavaScript and PHP.
@@ -17,6 +17,7 @@
   <img align="center" alt="GuiPadoDevs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GuiPadoDevs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GuiPadoDevs-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="GuiPadoDevs-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 </div>
   
   ##
