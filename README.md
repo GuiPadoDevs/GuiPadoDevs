@@ -1,9 +1,9 @@
 # Hi! My name is Guilherme! 👋
 
- - 👨🏻‍💻 Developer | Node.js | React | C# | Vue.JS
+ - 👨🏻‍💻 Developer | Node.JS | React | C# | Vue.JS
  - 👨‍🎓 Studying graduation in Information Systems at Instituto Toledo de Ensino.
  - 👨‍🎓 Advanced in Node and React by Alura.
- - 👨🏻‍💻 Some freelancers in C# and websites with HTML, CSS, JavaScript and PHP.
+ - 👨🏻‍💻 Some freelancers in C# and websites with Node.JS and React.
  - 💻 I have a YouTube, Instagram and TikTok channel about computer and programming tips.
 
 <div align="center">
