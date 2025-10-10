@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guilherme Padovine!
 
-### 👨‍💻 Fullstack Developer | Node.JS | React | C# | Vue.JS
+### 👨‍💻 Software Engineer | C# | Vue.JS | Node.JS | React 
 
 <p align="center">
   <a href="https://github.com/GuiPadoDevs">
@@ -10,8 +10,11 @@
 
 ---
 
-- 🎓 **Graduating in Information Systems** at Instituto Toledo de Ensino.
-- 💼 **Freelancer** in C# projects, web development using Node.js and React.
+- 🎓 **Graduated in Information Systems** from Instituto Toledo de Ensino.
+- 💼 **Fullstack Developer** working with **C#** and **Vue**, using **PostgreSQL**.
+- ⚙️ **DevOps** professional managing **AWS** infrastructure.
+- 🚀 Working on projects for multiple companies across various sectors.
+- 🔥 **Freelancer** in projects using **Node.js** and **React**.
 - 🎥 Sharing tech tips and programming tutorials on **[YouTube](https://www.youtube.com/@infotech1928)**, **[Instagram](https://www.instagram.com/info.tech_gp/)**, and **[TikTok](https://www.tiktok.com/@infotech1928)**.
 
 ---
