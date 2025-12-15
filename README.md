@@ -41,9 +41,6 @@
 
 ## 🌐 Connect with Me
 <div align="center">
-  <a href="https://www.youtube.com/@infotech1928" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
   <a href="https://www.instagram.com/_guipadodevs_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
